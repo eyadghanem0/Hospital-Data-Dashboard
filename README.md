@@ -9,7 +9,7 @@ periods.
 
 - The Power BI file (.pbix) is recommended to experience the dashboard's
 interactivity, and a pdf version is added for a quick view.
-Data source : (Source)[https://www.kaggle.com/datasets/devildyno/hospital-patient-records-jan-2021-july-2024]
+Data source : [Source](https://www.kaggle.com/datasets/devildyno/hospital-patient-records-jan-2021-july-2024)
 
 ## Instructions
 
