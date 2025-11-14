@@ -18,3 +18,5 @@ the left of the dashboard to filter by the selected button.
 - You can use the slicer titled "Select Medical Condition" or "Select Treatment" to filter, control+click
 if you want to select multiple fields.
 - Scroll up/down or left/right the table to view more columns and rows.
+
+* The project was completed in two days *
