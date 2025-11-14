@@ -19,4 +19,4 @@ the left of the dashboard to filter by the selected button.
 if you want to select multiple fields.
 - Scroll up/down or left/right the table to view more columns and rows.
 
-* The project was completed in two days *
+### The project was completed in two days
